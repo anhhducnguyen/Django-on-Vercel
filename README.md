@@ -49,7 +49,14 @@ This repository is the final code for the Django with Vercel Project Demo.
 
     ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/f8448bf8-188d-4d87-9bef-9b06d59be80c)
 
-
+  - Ở link của dự án, mẫu của tôi `https://console.firebase.google.com/u/0/project/test-7b47d/storage/test-7b47d.appspot.com/files` hãy sao chép `test-7b47d.appspot.com` để tùy chỉnh trong file `settings.py` của dự án
+    
+    ```
+    cred = credentials.Certificate('authentication.json')
+    firebase_admin.initialize_app(cred, {
+        'storageBucket': 'authentication-28e57.appspot.com'
+    })
+    ```
 
 
      
