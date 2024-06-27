@@ -21,19 +21,19 @@ This repository is the final code for the Django with Vercel Project Demo.
 
   - Nhấn `Go to console` phía trên bên phải màn hình
     
-  ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/9dfcdce6-b0fd-4b0a-b510-d91a93227061)
+    ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/9dfcdce6-b0fd-4b0a-b510-d91a93227061)
 
   - Thêm dự án
     
-  ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/a285d19d-cadb-4f71-ac31-da9ae76fea01)
+    ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/a285d19d-cadb-4f71-ac31-da9ae76fea01)
 
   - Tạo dự án
     
-  ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/87134ee8-9d0e-4726-9ed2-8b5e604d9759)
+    ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/87134ee8-9d0e-4726-9ed2-8b5e604d9759)
 
   - Tạo thành công
     
-  ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/43e1decd-2049-417b-b173-4c1cb049843e)
+    ![image](https://github.com/anhhducnguyen/Django-on-Vercel/assets/97099707/43e1decd-2049-417b-b173-4c1cb049843e)
 
   - Nhấn tiếp tục và cuộn xuống chon `Storage`, sau đó nhấn `Get started` hiển thị `Set up Cloud Storage`
 
